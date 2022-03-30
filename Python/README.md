@@ -2,7 +2,8 @@
 
 - 2학년 1학기
 - 파이썬데이터분석
-- 이계식교수님
+- [파이썬 기초 강의노트사이트](https://codingalzi.github.io/pybook/intro.html)
+- [파이썬 데이터분석 강의노트 사이트](https://codingalzi.github.io/pydata/)
 
 > ## 🎈공부내용 링크🎈
 - [수업내용 정리 및 공부내용 깃허브](https://github.com/blueconecell/blog-code/tree/main/python)
